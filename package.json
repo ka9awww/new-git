@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "unplugin-auto-import": "^0.8.6",
+    "unplugin-vue-components": "^0.19.6"
+  }
+}
